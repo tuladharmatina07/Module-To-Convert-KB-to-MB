@@ -1,4 +1,4 @@
-//Module to convert kb to mb
+//Module to convert KB to MB
 //kbToMb is a key
 var log = {
     kbToMb: function(kb){
